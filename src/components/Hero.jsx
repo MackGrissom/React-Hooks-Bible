@@ -55,13 +55,20 @@ export function Hero() {
             />
             <div className="relative">
               <p className="inline bg-gradient-to-r from-indigo-200 via-sky-400 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
-                 Learn & Use React Hooks <span className='bg-none text-[black]'>📖🪝</span>
+                 React Hooks 101 <span className='bg-none text-[black]'>📖🪝</span>
               </p>
-              <p className="mt-3 text-2xl tracking-tight text-slate-400">
-              A Free Open Sourced Education Tool For <span className='text-sky-400 '> Learning</span> And <span className='text-sky-400'> Using</span> A React Hooks. 
+              <p className="mt-3 text-2xl tracking-tight text-slate-400 italic">
+              A Free Open Sourced Education Tool For 
+              
+              <span className='text-sky-400 '> Learning And </span> 
+              
+              
+              <span className='text-sky-400'> Using</span> 
+              
+              <span className='text-sky-400'> React Hooks. </span>
               </p>
               <p className="mt-3 text-l tracking-tight text-slate-500">
-             Built For Both Beginner & Advanced Developers
+             Optimized For Beginner Devs New To React
               </p>
 
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">

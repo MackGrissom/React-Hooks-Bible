@@ -1,14 +1,14 @@
 ---
-title: Getting started
-pageTitle: CacheAdvance - Never miss the cache again.
-description: Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.
+title: Getting started With React
+pageTitle: React Basics
+description: Let's start from the very beginning - what is React..
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
+Let's start from the very beginning - what is React..{% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="React Documentation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
 
 {% quick-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
 
