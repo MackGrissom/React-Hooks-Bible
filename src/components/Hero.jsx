@@ -55,7 +55,7 @@ export function Hero() {
             />
             <div className="relative">
               <p className="inline bg-gradient-to-r from-indigo-200 via-sky-400 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
-                 Learn & Use React Hooks
+                 Learn & Use React Hooks <span className='bg-none text-[black]'>📖🪝</span>
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
               A Free Open Sourced Education Tool For <span className='text-sky-400 '> Learning</span> And <span className='text-sky-400'> Using</span> A React Hooks. 

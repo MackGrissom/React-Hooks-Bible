@@ -13,57 +13,54 @@ import { ThemeSelector } from '@/components/ThemeSelector'
 import Image from 'next/image'
 const navigation = [
   {
-    title: 'Introduction',
+    title: 'React Basics',
     links: [
       { title: 'Getting started', href: '/' },
       { title: 'Installation', href: '/docs/installation' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'WTF is a Hook?!',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
+      { title: 'Defining Hooks', href: '/docs/understanding-caching' },
       {
-        title: 'Predicting user behavior',
+        title: 'UseState Hook',
         href: '/docs/predicting-user-behavior',
       },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
+      { title: 'UseEffect Hook', href: '/docs/basics-of-time-travel' },
       {
-        title: 'Introduction to string theory',
+        title: 'Building Your Own Hooks',
         href: '/docs/introduction-to-string-theory',
       },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Hooks FAQ', href: '/docs/the-butterfly-effect' },
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Advanced Hooks: Coming Soon',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
+      { title: 'In Development...', href: '/docs/writing-plugins' },
+      { title: 'In Development...', href: '/docs/neuralink-integration' },
+      { title: 'In Development...', href: '/docs/temporal-paradoxes' },
+      { title: 'In Development...', href: '/docs/testing' },
+      { title: 'In Development...', href: '/docs/compile-time-caching' },
       {
-        title: 'Predictive data generation',
+        title: 'In Development...',
         href: '/docs/predictive-data-generation',
       },
     ],
   },
   {
-    title: 'API reference',
+    title: 'Useful References',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
+      { title: 'React Documentation..duh!', href: '/docs/cacheadvance-predict' },
+      
     ],
   },
   {
     title: 'Contributing',
     links: [
       { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
+      
     ],
   },
 ]
