@@ -20,14 +20,21 @@ const navigation = [
     ],
   },
   {
-    title: 'WTF is a Hook?!',
+    title: 'WTF is a Hook?! (In Development)',
     links: [
       { title: 'Defining Hooks', href: '/docs/understanding-caching' },
       {
-        title: 'UseState Hook',
+        title: 'UseState',
         href: '/docs/predicting-user-behavior',
       },
-      { title: 'UseEffect Hook', href: '/docs/basics-of-time-travel' },
+      { title: 'UseEffect', href: '/docs/basics-of-time-travel' },
+      { title: 'UseRef', href: '/docs/basics-of-time-travel' },
+      { title: 'UseReducer', href: '/docs/basics-of-time-travel' },
+      { title: 'UseLayoutEffect', href: '/docs/basics-of-time-travel' },
+      { title: 'UseImperativeHandle', href: '/docs/basics-of-time-travel' },
+      { title: 'UseContext', href: '/docs/basics-of-time-travel' },
+      { title: 'UseMemo', href: '/docs/basics-of-time-travel' },
+      { title: 'UseCallback', href: '/docs/basics-of-time-travel' },
       {
         title: 'Building Your Own Hooks',
         href: '/docs/introduction-to-string-theory',
@@ -36,7 +43,7 @@ const navigation = [
     ],
   },
   {
-    title: 'Advanced Hooks: Coming Soon',
+    title: 'Advanced Concepts: Coming Soon',
     links: [
       { title: 'In Development...', href: '/docs/writing-plugins' },
       { title: 'In Development...', href: '/docs/neuralink-integration' },
