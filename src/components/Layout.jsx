@@ -16,7 +16,7 @@ const navigation = [
     title: 'React Basics',
     links: [
       { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+   
     ],
   },
   {

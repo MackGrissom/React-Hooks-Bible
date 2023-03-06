@@ -1,12 +1,3 @@
-{% tag %}
-Content
-{% /tag %}
-
-{% callout %}
-Let's look at the **useState** Hook
-{% /callout %}
-
-```javascript
 import React, { useState } from "react";
 const UseStateExample = () => {
   function Counter() {
@@ -26,6 +17,3 @@ const UseStateExample = () => {
 }
 
 export default UseStateExample
-```
-
-UseState
